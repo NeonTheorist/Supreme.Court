@@ -5,7 +5,7 @@ options(width = 800)
 ---
 title: "Supreme Court Analysis"
 author: "Alan Ward"
-output: github
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
